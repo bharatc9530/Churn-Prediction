@@ -1,5 +1,5 @@
 # Churn-Prediction
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12RFZqVdDeo5bnU_QUggkTb8FlrAdWtZL)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12RFZqVdDeo5bnU_QUggkTb8FlrAdWtZL?usp=sharing)
 Telecom Churn Prediction using Machine Learning models
 
 Telecom companies need to predict which customers are at high risk of churn. In this repo, we will have 3 main goals.
